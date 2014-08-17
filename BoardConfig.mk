@@ -12,11 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# BoardConfig.mk
-#
-# Product-specific compile-time definitions.
-#
-
 # Kernel Config
 TARGET_KERNEL_CONFIG := liquidsmooth_captivatemtd_defconfig
 
