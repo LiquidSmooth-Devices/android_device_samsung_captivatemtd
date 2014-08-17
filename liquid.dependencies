@@ -12,10 +12,10 @@
 	        "revision": "kitkat"
 	},
 	{
-	        "remote": "cm",
-		"repository": "android_kernel_samsung_aries",
+	        "remote": "gh",
+		"repository": "mtb3000gt/android_kernel_samsung_aries",
 		"target_path": "kernel/samsung/aries",
-	        "revision": "cm-11.0"
+	        "revision": "kitkat"
 	},
         {
                 "remote": "ls",

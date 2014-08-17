@@ -18,7 +18,7 @@
 #
 
 # Kernel Config
-TARGET_KERNEL_CONFIG := cyanogenmod_captivatemtd_defconfig
+TARGET_KERNEL_CONFIG := liquidsmooth_captivatemtd_defconfig
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/captivatemtd/bluetooth
